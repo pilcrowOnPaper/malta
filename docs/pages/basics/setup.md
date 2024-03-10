@@ -6,6 +6,16 @@ title: "Getting started"
 
 ## Installation
 
+### Goblin
+
+[goblin.run](https://goblin.run) can be used to detect,build and install for your specific architecture but you can always use the [pre-built binaries](#manual) as well
+
+```sh
+curl -sf http://goblin.run/github.com/pilcrowOnPaper/malta | sh
+```
+
+### Manual
+
 Binaries for MacOS, Linux, and Windows are available from [GitHub releases](https://github.com/pilcrowOnPaper/malta/releases/latest).
 
 For MacOS/Linux, you can install it with the following commands:
